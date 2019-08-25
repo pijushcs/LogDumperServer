@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LogDumperServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogDumperServer_jar</output-path>
+    <root id="archive" name="LogDumperServer.jar">
+      <element id="module-output" name="LogDumperServer" />
+    </root>
+  </artifact>
+</component>
